@@ -1,0 +1,10 @@
+#banner-wrapper{
+    width: 80%;
+    margin: 0 auto;
+  }
+  #banner-wrapper img{
+    width:100%;
+  }
+  h1,p{
+    text-align:center;
+  }
